@@ -30,7 +30,7 @@ export const supportedPools = [
     name: 'DAI-ETH LP',
     symbol: 'DAI-ETH LP',
     tokenSymbol: 'DAI',
-    icon: '💸',
+    icon: '🪙',
   },
   {
     pid: 1,
@@ -40,10 +40,10 @@ export const supportedPools = [
     tokenAddresses: {
       5: '0x79C950C7446B234a6Ad53B908fBF342b01c4d446',
     },
-    name: 'Tether Turtle',
+    name: 'USDT-ETH SLP',
     symbol: 'USDT-ETH SLP',
     tokenSymbol: 'USDT',
-    icon: '🐢',
+    icon: '💲',
   },
   {
     pid: 2,
@@ -53,10 +53,10 @@ export const supportedPools = [
     tokenAddresses: {
       5: '0x07865c6E87B9F70255377e024ace6630C1Eaa37F',
     },
-    name: 'Circle Snail',
+    name: 'USDC-ETH SLP',
     symbol: 'USDC-ETH SLP',
     tokenSymbol: 'USDC',
-    icon: '🐌',
+    icon: '🪢',
   },
 ]
 
