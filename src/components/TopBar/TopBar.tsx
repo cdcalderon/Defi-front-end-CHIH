@@ -16,7 +16,7 @@ const TopBar: React.FC<TopBarProps> = ({ onPresentMobileMenu }) => {
     <StyledTopBar>
       <div
         style={{
-          backgroundColor: 'purple',
+          backgroundColor: '#008D71',
           color: 'white',
           textAlign: 'center',
           padding: '3px',
@@ -24,7 +24,7 @@ const TopBar: React.FC<TopBarProps> = ({ onPresentMobileMenu }) => {
         }}
       >
         This is a practice project for my personal portfolio on Goerli test net.
-        There is no JEDY token. Do not get scammed. Carlos Calderon
+        There is no CHIH token. Do not get scammed. Carlos Calderon
       </div>
       <Container size="lg">
         <StyledTopBarInner>

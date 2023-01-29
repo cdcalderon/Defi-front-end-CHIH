@@ -5,10 +5,10 @@ export const CHAIN_ID = 5
 
 export const contractAddresses = {
   sushi: {
-    5: '0x5f385b3Fa95e2A8f1eb6eEf7Ca3434a28a686BbF',
+    5: '0x1515E3D0e092156c22Ed2751D46e77DE16F0b45a',
   },
   masterChef: {
-    5: '0xbfC0d11dCa1f1b562E216Dfc761Ea4C7A8a419bA',
+    5: '0x5784fbc9Cf43A49744f815214Dc34b1B91755e91',
   },
   weth: {
     5: '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6',

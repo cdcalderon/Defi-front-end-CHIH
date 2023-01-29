@@ -27,7 +27,7 @@ const Farms: React.FC = () => {
             <Route exact path={path}>
               <PageHeader
                 icon
-                subtitle="Earn JEDY tokens by staking LP tokens!"
+                subtitle="Earn CHIH tokens by staking LP tokens!"
                 title="Select Your Favorite LP"
               />
               <FarmCards />

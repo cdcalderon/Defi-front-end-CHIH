@@ -8,7 +8,7 @@ export const green = {
 export const red = {
   100: '#FFFDFE',
   200: '#ffc2a8',
-  500: '#E259FF',
+  500: '#00EABB',
 }
 
 export const grey = {
@@ -17,6 +17,6 @@ export const grey = {
   300: '#e2d6cf', //white
   400: '#E0E0E0', //font colour
   500: '#4169e1', //golden
-  600: '#E259FF', //elements golden
+  600: '#00EABB', //elements golden
   800: '#606060', //dark
 }

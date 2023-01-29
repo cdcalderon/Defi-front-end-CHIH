@@ -89,7 +89,7 @@ const Balances: React.FC = () => {
       <Card>
         <CardContent>
           <div style={{ flex: 1 }}>
-            <Label text="Your JEDY Balance" />
+            <Label text="Your CHIH Balance" />
             <Value
               value={!!account ? getBalanceNumber(sushiBalance) : 'Locked'}
             />
@@ -98,21 +98,21 @@ const Balances: React.FC = () => {
         <Footnote>
           Earning...
           <FootnoteValue>
-            <PendingRewards /> JEDY
+            <PendingRewards /> CHIH
           </FootnoteValue>
         </Footnote>
       </Card>
 
       <Card>
         <CardContent>
-          <Label text="Total JEDY Supply" />
+          <Label text="Total CHIH Supply" />
           <Value
             value={totalSupply ? getBalanceNumber(totalSupply) : 'Locked'}
           />
         </CardContent>
         <Footnote>
           New rewards per block
-          <FootnoteValue>100 JEDY</FootnoteValue>
+          <FootnoteValue>1 CHIH</FootnoteValue>
         </Footnote>
       </Card>
     </StyledWrapper>

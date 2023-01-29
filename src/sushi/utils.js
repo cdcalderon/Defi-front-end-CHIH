@@ -57,7 +57,7 @@ export const getFarms = (sushi) => {
           tokenAddress,
           tokenSymbol,
           tokenContract,
-          earnToken: 'JEDY',
+          earnToken: 'CHIH',
           earnTokenAddress: sushi.contracts.sushi.options.address,
           icon,
         }),
